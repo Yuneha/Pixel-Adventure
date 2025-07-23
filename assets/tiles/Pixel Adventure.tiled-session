@@ -1,0 +1,81 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01": {
+            "scale": 1.7990625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.16675351745704,
+                "y": 184.5405593190898
+            }
+        },
+        "level-01.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1.4535,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 653.59477124183,
+                "y": 353.6291709666323
+            }
+        },
+        "level-02.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1.4535,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 399.7248022015824,
+                "y": 224.2862057103543
+            }
+        },
+        "level-03.tmx": {
+            "scale": 1.4535,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 400.4127966976264,
+                "y": 224.2862057103543
+            }
+        }
+    },
+    "last.imagePath": "/home/yuneha/zone01/pixel_adventure/assets/images/Terrain",
+    "map.height": 28,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "level-01.tmx",
+        "level-02.tmx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "level-01.tmx",
+        "level-02.tmx",
+        "Pixel Adventure.tsx",
+        "level-03.tmx",
+        "level-01"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
