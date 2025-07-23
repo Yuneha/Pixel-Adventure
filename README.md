@@ -34,8 +34,8 @@ Pixel Adventure is a mobile platformer game built with [Flutter](https://flutter
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yuneha/pixel_adventure.git
-   cd pixel_adventure
+   git clone https://github.com/Yuneha/Pixel-Adventure.git
+   cd Pixel-Adventure
    ```
 
 2. **Install dependencies:**
